@@ -1,0 +1,30 @@
+#+BRAIN_CHILDREN: Budget%20Assignment M360 M.343 M330 M320 Sahara Horned Viper Assignment M285 M272 M262 M242 PLMC6 M241 M235 C10 C9 Protein Bites Ingredients British Isles Chef Bio M225 M213 M204
+
+#+BRAIN_PARENTS: Foods Math PLM
+
+* Math
+** DONE P. 204, #1-4, 6ace, 7ace, 9db, 11, 14
+CLOSED: [2017-05-14 Sun 17:55] DEADLINE: <2017-04-11 Tue>
+
+
+* Brainchildren                                               :brainchildren:
+- [[brain:Budget Assignment][Budget Assignment]]
+- [[brain:M360][M360]]
+- [[brain:M.343][M]]
+- [[brain:M330][M330]]
+- [[brain:M320][M320]]
+- [[brain:Sahara Horned Viper Assignment][Sahara Horned Viper Assignment]]
+- [[brain:M285][M285]]
+- [[brain:M272][M272]]
+- [[brain:M262][M262]]
+- [[brain:M242][M242]]
+- [[brain:PLMC6][PLMC6]]
+- [[brain:M241][M241]]
+- [[brain:M235][M235]]
+- [[brain:C10][C10]]
+- [[brain:C9][C9]]
+- [[brain:Protein Bites Ingredients][Prot]]
+- [[brain:British Isles Chef Bio][British Isles Chef Bio]]
+- [[brain:M225][M225]]
+- [[brain:M213][M213]]
+- [[brain:M204][M204]]

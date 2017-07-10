@@ -1,0 +1,4 @@
+#+BRAIN_PARENTS: Quareia
+
+* TODO Meditate at least 20 minutes
+  DEADLINE: <2017-07-10 Mon +1d>

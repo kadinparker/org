@@ -1,0 +1,28 @@
+#+BRAIN_PARENTS: Homework
+
+#+TITLE: P.204
+
+1) State the zeros of the following functions\\
+   a) \(y=2(x-1)(x+2)(x-2)\)\\
+   \(x=1, x=-2, x=2\)\\
+   b) \(y=5(2x+3)(4x-5)(x+7)\)\\
+   c) \(y=2(x-3)^2(x+5)(x-4)\)\\
+   d) \(y=(x+6)^3(2x-5)\)\\
+   e) \(y=-5x(x^2-9)\)\\
+   f) \(y=(x+5)(x^2-4x-12)\)\\
+2) 
+3) 
+4) 
+6) [@6]
+   a) 
+   c) [@c]i
+   e) [@e]i
+7)  
+   a) 
+   c) [@c]i
+   e) [@e]i
+9) [@9]i
+   b) [@b]i
+   d) [@d]i
+11) [@11]i
+14) [@14]i

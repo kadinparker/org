@@ -1,0 +1,8 @@
+#+BRAIN_CHILDREN: Room Spiritual
+
+#+BRAIN_PARENTS: Brain
+
+
+
+* Brainchildren    :brainchildren:
+- [[brain:Room][Room]]

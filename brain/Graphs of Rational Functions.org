@@ -1,0 +1,5 @@
+#+BRAIN_PARENTS: Math
+
+#+TITLE: Graphs of Rational Functions
+#+AUTHOR: Kadin Buckton
+

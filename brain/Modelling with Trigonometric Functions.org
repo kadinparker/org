@@ -1,0 +1,21 @@
+#+BRAIN_PARENTS: Math
+
+#+TITLE: Modelling with Trigonometric Functions
+
+In previous sections, the horizontal axis of each graph of a trigonometric function was scaled in terms of the irrational number \pi
+
+These scales are not useful in applications where the horizontal axis is usually marked in time intervals
+
+In this section, we will modify the equations of the trigonometric functions so the horizontal axis is marked with whole numbers
+
+* Ex. 1 - Modelling using a Sinusoidal Equation
+
+A weight is supported by a spring. The weight rests 50cm above a table top. The weight is pulled down 25cm and released at time t = 0
+
+This creates a periodic up and down motion. It takes 1.6 seconds for the weight to return to the low position each time
+
+1) Draw a qualitative sketch of the height of the weight above the table top against time.
+2) Show the coordinates of some maximum and minimum points and the rest position
+3) Create the equation that describes this situation
+
+

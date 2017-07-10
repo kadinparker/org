@@ -1,0 +1,8 @@
+#+BRAIN_PARENTS: School
+
+#+BRAIN_CHILDREN: Music%20ISU
+
+
+
+* Brainchildren    :brainchildren:
+- [[brain:Music ISU][Music ISU]]

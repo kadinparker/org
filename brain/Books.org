@@ -1,0 +1,8 @@
+#+BRAIN_PARENTS: Brain
+
+#+BRAIN_CHILDREN: Halo
+
+
+
+* Brainchildren    :brainchildren:
+- [[brain:Halo][Halo]]

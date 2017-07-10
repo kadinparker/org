@@ -1,0 +1,3 @@
+#+BRAIN_PARENTS: Quareia
+
+* TODO Get a tarot deck (Rider Waite)

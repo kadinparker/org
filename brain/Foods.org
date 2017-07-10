@@ -1,0 +1,9 @@
+#+BRAIN_PARENTS: School
+
+#+BRAIN_CHILDREN: Exam%20Assignment Homework
+
+
+
+* Brainchildren    :brainchildren:
+- [[brain:Exam Assignment][Exam Assignment]]
+- [[brain:Homework][Homework]]

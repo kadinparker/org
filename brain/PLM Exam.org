@@ -1,0 +1,409 @@
+#+BRAIN_PARENTS: PLM
+
+#+TITLE: Portfolio
+#+AUTHOR: Kadin Buckton
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage{apacite}
+
+* Self and Others
+** Who am I?
+*** Brief Biography
+**** Family Members
+***** Immediate Family
+****** Living with me
+******* Mother
+        
+        Krista Parker
+        
+******* Stepfather
+        
+        Jeremy Yourchuk
+        
+******* Brother
+        
+        Kyran Parker
+        
+****** Living with my dad
+******* Stepmother
+        
+        Louise Roy
+        
+******* Father
+        
+        Christopher Buckton
+        
+******* Brothers
+        
+        Noah, Nathen and Nolan Buckton-Roy
+        
+**** Friends
+***** Alexander Morin
+
+      My best friend, do everything together
+
+**** Girlfriend
+***** Liliana Rhein
+
+      Been together for roughly three years. Plan on living together after College/University
+
+**** Pets
+***** Living with me
+****** Dogs
+
+       Kiara and Kazer. Kiara is a female yellow lab with infinite energy. Once swam across the haviland lake without breaking a sweat, had to be picked up in a canoe. Kazer is a male black lab, a little more relaxed than his girlfriend. Was attacked by another dog, puncturing his back and injuring his knee. Recovered well, and is back to running around, albeit a little slower than Kiara.
+
+****** Cat
+
+       We originally had two cats, Toby and Kya. Toby ended up running off one day and never came back. Kya is a black/grey cat, very cuddly. Will sleep on you if you let her.
+
+***** Living with dad
+****** Dogs
+
+       Two little Shiatsu/Pomeranian mixes, both female, love to lick peoples faces. When shaved, they look like little teddy bears.
+
+****** Bearded Dragons
+
+       Originally we had 1, then another, then another until we ended up with 5 of these funny lizards. Unfortunately, Louise found out that she was allergic to them and was forced to give 3 of them away. Now only the original (little buddy, who isn't very little anymore) and Kevin (the angry one, only lets me pet him some days) remain. Love baths and running around chasing the dogs.
+
+****** Fish
+
+       I don't think any of the fish actually have names. Nathen has a beta fish, and there is a tank of misc. fish in the living room. They are fun to look at, and serve as occasional food for the next pet on the list
+
+****** Turtle
+
+       Our turtle, who happens to be named Turtle, spends most of his day under his basking lamp. However when he's not basking, he's swimming around chasing fish, and looking at you as you walk by his tank.
+
+**** Schools Attended
+***** Greenwood Elementary School
+
+      Attended from JK to Grade 6. Enjoyed (most) of my time there, good teachers. Still talk to my Grade 6 teacher (Mrs. Wilcox) sometimes whenever I pop in to say hello. Moved to the Korah 7/8 program the first year it was created, half to escape the bullying that had started and half for the computer labs. 
+
+***** Korah Collegiate and Vocational School
+
+      Have been attending Korah since Grade 7. Currently enrolled, this semester taking Foods, Personal Life Management, Advanced Functions and Computer Science. In fact, this is actually an exam for my Personal Life Management class, don't tell anybody! Teachers here are great, (most of) the people are super nice, and I met my best friend (Alex) in grade 7 here. 
+
+**** Sports
+
+     I've tried most sports; Soccer, Baseball, Football, Badminton, however the only sport that really ever stuck was Hockey. Started when I was a kid, and I've been playing ever since. Next year is my last year, excepting College/University hockey. Hopefully going into Midget AA, will have to see how I do in drafts.
+
+**** Personality Traits
+
+     - Good at analyzing situations
+     - Quiet / Introverted
+     - Don't like having a schedule
+     - Curious / Inquisitive
+
+**** Hobbies
+
+     Some of my hobbies include; Computer Programming, Hockey, Video Gaming, Biking, and Hiking.
+
+**** Post Secondary Plans
+
+     Currently up in the air about this, was planning for a while to go into the Computer Science course at Algoma U, but recently have been exploring the Computer Security field as a future career. Will most likely either go to Algoma University or Sault College, for the fact that it is cheaper to remain in the city rather than go somewhere else for my post secondary. 
+
+*** Famous Quote or Proverb that describes my personality and/or outlook on life
+
+    #+BEGIN_QUOTE
+    Do not take life too seriously. You will never get out of it alive. --Elbert Hubbard
+    #+END_QUOTE
+    This quote describes my outlook on life fairly well. Take things as they come, and it helps me remember that whatever happens today, it will seem inconsequential in a few years so why should I stress over it?
+
+** Resources
+*** Human Resources in my life
+**** Liliana
+***** How do you know them?
+
+      She's my girlfriend, for 3 years.
+
+***** How do they help you?
+
+      She reminds me every day that there are people that care about me, and inspires me to achieve any goal that I set for myself.
+
+***** How do you get ahold of them?
+
+      I call her. On the telephone. Or over the internet.
+
+**** Alexander Morin
+***** How do you know them?
+
+      I've known him ever since grade 7, when I moved here (Korah) for the 7/8 program. Since then we've been (mostly) inseparable, playing video games and just hanging out. I also occasionally scribe for him, because he has dyslexia, and finds it very hard to write.
+
+***** How do they help you?
+
+      He helps me remember to relax sometimes, unwind over a barbecue together and helps me focus on what I want to do in life.
+
+***** How do you get ahold of them?
+
+      Talk to him at school, or call him. On the telephone. Or over the internet.
+
+*** Personal Resources
+**** Skills
+
+     - Adept at technology
+     - Strategist
+     - Intelligent
+     - Management
+
+**** Interests
+
+     - Coding
+     - Video Games
+     - Books
+     - Music
+     - Cool Creepy Things
+
+**** Health/Fitness
+
+     Reasonably fit, can lift 140+ lbs, which is almost my body weight, which is 164 lbs. At 5'11, this gives me a BMI of 22, or with the newer SBMI, 37/70. Both of which are in the healthy range. This is going to help me as I work towards independence because I wont have to worry about increased health risks, and can do more without becoming fatigued.
+
+** Goals
+*** Identify and explain 2 short term goals (one year or less)
+**** Get more physically fit
+
+Because I'm going to be going into AA hockey next year, I want to get into better physical shape, so that I can play better than the rest of them. I also just want to feel healthier, which I believe getting more physically fit will accomplish.
+
+**** Save up some money
+
+I want to start saving for college. Due to the fact that my family has done so much for me, I'd really prefer it I could pay my own way through college, add to relieve some of the financial burden on my family. It would also be nice to feel more independent.
+
+*** Identify and explain 1 long term goal (one year or longer) and create a SMART goal plan for it
+**** 
+*** Describe the lifestyle you hope to have when you're 30 years old
+**** City
+
+     Phoenix, Arizona
+
+**** Home
+
+     Doesn't really matter, as long as it has a pool.
+
+**** Job
+
+     Something in the Computer Security field. Currently looking at the Computer Security Analyst role, which pays an average of $75k a year.
+
+**** Family
+
+     Liliana Rhein, Single Child, preferably a boy (don't tell Lili I said that).
+
+**** Vehicle
+
+     A black Impala.
+
+**** Pets
+
+     A Corgi, Lizards, and a Pacman Frog.
+
+**** Finances
+
+     Something around 75k$ a year for myself.
+
+** Communication
+*** Overview of your oral communication ability as it relates to conversing with both people you know, as well as people you do not know
+**** People you know
+
+I'm very confident when talking to people I know well.
+
+**** People you don't know
+
+Communication with people I don't know well has been a struggle I'm trying to overcome. When I first start talking with someone I don't know, I'm usually very reserved, and have a few nervous habits including stuttering.
+
+**** Styles of communication I use
+*** Explain the process of active listening and describe your personal level of competency
+    The process of active listening is when you (the listener) is fully concentrated on the speaker, and /actively/ understands, responds, and then remembers what is being said. 
+**** In the classroom
+     I think my level of competence is fairly high when it comes to active listening in the classroom, with distractions from other students being the main reason for me to become distracted.
+**** With peers
+     With peers, depending on what we're doing at the time it is occasionally hard for me to focus on exactly what they are saying, and have to periodically ask them to repeat what they just said.
+*** Comment on how aware you and confident you are of your non-verbal communication
+**** Body language
+     I don't usually pay too much attention to my body language, when I'm talking with friends I'm usually very relaxed, whereas when I'm talking to people I don't know I'm generally tense. I don't think it's too bad though.
+**** Nervous habits
+     Stuttering, mostly. Really bad when I'm addressing a group of people. 
+**** Eye contact
+     I try to maintain direct eye contact for most of the time if someone is talking directly to me.
+**** Personal space
+     I'm definitely not a very touchy person, don't usually hug people. Generally the closest I get to someone's personal space is a handshake.
+**** Image projection
+     I try to project a confident image, though sometimes I don't think I'm very successful. It's something I need to work on, I'm not as competent as I want to be yet. 
+** Time Management and Productivity
+*** Identify and briefly describe 3 time wasters that you personally experience and know you need to manage better
+**** Procrastination
+     Just plain procrastination is my Achilles heel. Very bad habit I'm working (so far unsuccessfully) to kick. 
+*** Identify and explain one strategy you could implement to be more productive with your time
+    Something I've recently been looking at to help is something called the pomodoro technique, which is a time management method that organizes your time into chunks (traditionally 25 minutes) whereupon the time elapsing you take a short break (4-5 minutes). On your fifth break, you take a longer one (15-30 minutes), and then reset your break count to 0. 
+* Pathways
+** Career/Job Goals(s)
+*** Identify and describe a job you would like to have one day and why you would like that job
+
+    A job I would like to have one day is to be an Information Security Analyst. I'd like that job because it involves monitoring networks for security breaches, conduct testing to determine whether or not there are any security holes in a system, and help plan and conduct security procedures.
+
+*** Describe specifically what education, skills, and personal attributes you will need to do that job
+
+    Typically a Bachelor's Degree is required, along with related experience in the same field. Some skills needed include analytical skills, the need to be detail oriented, have problem solving skills and ingenuity. 
+
+** Job Search and Interview Preparation
+*** Identify some different ways people go about finding jobs and describe how you (or a friend/parent/sibling) found their job
+
+    I don't have any siblings or friends with jobs, so I can't speak for that part. Some of the ways people go about finding jobs, however, I can speak for.
+
+**** Online
+
+     A (relatively) newer way of finding jobs involves the internet. Recruiters, who are people looking for people looking for jobs, post job openings on different websites, with descriptions, salaries, benefits, and any other information one might want. Then, someone looking for a job can go to these websites, and submit resumes either online or in person (by going to the store that is hiring), which brings me to the next way.
+
+**** In-Person
+
+     Sometimes stores don't have all this fancy internet stuff. In these cases, if one was looking for a job they might see a store with a "We're Hiring" sign in their window. Then this person would go into the store with a resume, and give it to the manager (or whoever handles hiring at the company). This method usually makes you look better than the online method, though I don't have any anecdotal evidence to prove it. 
+
+**** Through a Friend or Family Member
+
+     Though much rarer than the previous two, sometimes people just get jobs though a friend or family member. A good example of this is a family business. If my mother ran a grocery store, for example, I don't think she would make me submit a resume in order to stock shelves. 
+
+*** Include an edited version of your resume here
+
+    [[file:/home/kadin/Downloads/Kadin%20Parker%20Resume%20-%20Any.pdf][Resume]]
+
+* Finance
+** Budgeting and Saving
+*** Describe what the term "budgeting" means and the importance of budgeting. Include a blank budget table.
+
+    #+BEGIN_QUOTE  
+    budg·et
+    verb
+    gerund or present participle: budgeting
+    allow or provide a particular amount of money in a budget.
+    "the university is budgeting for a deficit"
+    synonyms:	allocate, allot, allow, earmark, designate, set aside
+    "we have to budget $7,000 for the work"
+
+    provide (a sum of money) for a particular purpose from a budget.
+    "the council proposes to budget $100,000 to provide grants"
+    #+END_QUOTE
+
+    One of the importance's of budgeting is to make sure that you have enough money for everything, and that you're not spending more money than you are making.
+
+*** Identify 3 advantages for saving money and reflect personally on how well you save money
+**** More Money
+
+When you save money, you're going to have more money available to you. This means you'll eventually be able to afford some more expensive things, whatever you want as long as you're willing to save for it.
+
+**** Less Stress
+
+With more money comes the peace of mind knowing that if you or someone you love end up with an emergency expense, or if suddenly your rent or another bill increases, you'll be able to afford it.
+
+**** Better Things
+
+Also with more money comes the opportunity to buy better things. For example, if your washing machine is on the fritz and you have no money, you'll have to just deal with it (or wash by hand). However if you are saving money, you might have enough for a new washing machine.
+
+**** Personal Reflection
+
+I don't really have any money to spend at the moment. When I do get a job, I have a plan in place to put a certain percentage of my paycheck into a savings account, to save up for things like college, our insurance.
+
+** Pay Stubs
+*** Describe the type of information presented on a pay stub
+
+The pay stub includes your total earnings for the pay period, any deductions, and your net pay
+
+*** Explain why it is important to review your pay stubs regularly, and the possible risks of not checking your pay stubs
+
+It's important to review your pay stubs regularly so that you can verify how much you're getting paid, and that there aren't any deductions there shouldn't be. A risk of not checking your pay stubs is you being deducted something you shouldn't be, or not being paid the correct amount. 
+
+** Credit Cards and Debt
+*** Describe the pros and cons of credit cards and whether or not you wish to have one someday - Why or Why Not?
+**** Pros
+
+One of the most important pros of a credit card, in my opinion, is that you can buy expensive things, such as a house, and then repay that bit by bit. Another pro is being able to shop online.
+
+**** Cons
+
+One of the biggest cons of owning a credit card is that it is extremely easy to go into massive amounts of debt. 
+
+**** Do I want one?
+
+I wouldn't say I want one, because if I could do without it I would, however it is basically required if I want to own a house or car, along with any other items that would be hard to pay for in cash. I also think that I have learned enough to not go into debt using one, so I'm not too worried about it.
+
+** Smart Shopping
+*** Identify 3 strategies you should use when shopping to ensure you are getting the best deals for your dollars
+**** Coupons
+
+     One of the best ways to save money is to not pay full price on things. There are almost always coupons in stores and online that allow you to save upwards of 30% on everyday items.
+
+**** Sales
+
+Why spend $10 when you can spend $5 on the same thing? Buying things when they are on sale seems like a small thing, however it quickly adds up. 
+
+**** Buying Bulk
+
+Generally, buying bulk is a lot cheaper than anything else. While you can't do this as often as you can do the previous two things, it will also add up over time.
+
+*** Describe the level of confidence you have in distinguishing your "needs" from your "wants" /and/ utilizing strategies to ensure all of your clothing and food needs will be met, once you're living on your own
+
+    If we're using an 'out of 10' system, I would rate my confidence as a solid 10. 
+
+* Community and World
+** Values
+*** Identify and describe 4 values that you have
+**** Spirituality
+     Recently, I've become to value greater and greater my own spirituality, and deciding what I personally believe in. 
+**** Knowledge
+     One of the biggest things I value is knowledge, I think that the pursuit of knowledge is one of the best things you can pursue in life.
+**** Growth
+     I'm of the opinion that without growth there is no point in life. Why would I want to continue living if I'm going to be the same person for 80 years? Personal growth is very important to me, and I want to continue to grow as a person until I die. 
+**** Contribution
+     If there is one thing that is validating in life, it's contributing to the better of society. Knowing that, whatever happens, you've made a positive change to someone's life is a very fulfilling thing. 
+*** Comment on how these 4 values influence your decision making
+    Sometimes (regrettably) I don't always keep these values in mind while making decisions, though I've been trying to recently. I feel that while keeping these values in mind, I make better decisions than I would otherwise.
+** Decision Making
+*** Explain which decision making style you most often use for tough decisions and why you use it
+    When making tough decisions, I usually use the analytical decision making style. I use it because I'm very fact based, and I think that some of the best decisions are made using the data that is right in front of you.
+*** Identify and describe /one/ example of a bad decision that you made and which decision making style you used to make it.
+    A bad decision I made was to do the Chem and Physics courses offered at the school. I used a directive decision making style, which focused on the short-term rather than the long-term. 
+**** Were there any consequences from it that affected you or others?
+     Only affected me, though I ended up losing two credits because of it.
+*** Identify and describe /one/ example of a good decision that you made and which decision making style you used to make it.
+    A good decision I have made was to drop the IB program. The decision style I used was analytical, looking at the data that was presented to me and decided that it wasn't the right path for me. 
+**** Did this decision affect anyone besides yourself? If so, how?
+     Didn't affect anyone besides myself.
+** World Impact
+*** Identify 1 decision you have made that has world impact (may start within the home and reach community or the world). Think of things like purchasing cheap clothing, using antibiotics, recycling, using environmental cleaners, smoking, etc.
+    I recycle a lot, which helps the environment.
+*** Explain how these decisions affect you, people close to the situation, companies or cities
+    It makes me feel a lot better knowing that I'm helping the environment by not putting recyclable materials in the dump, and it keeps the recycling company in business.
+** Resources
+*** Identify 2 community resources you use or may have to use. Include a brief description
+**** Library
+     I've made quite extensive use of the library, as I am an avid reader of books. It has been very helpful for me in my quest of knowledge, and I have been called a bookworm by a few people.
+**** Hockey Arenas
+     As hockey is one of my loves, I've been in every single hockey arena in the Sault as well as a couple in the states since I was 5. It helps me unwind, and stay fit. 
+* Household Management
+** Toxin Free Products
+*** Complete a list of 5 products that are common in households that are toxic to us and list a healthy alternative to each one
+**** Air Fresheners
+     Many air fresheners contain phthalates, which are known to be endocrine disruptors.Men with higher phthalate compounds in their blood had correspondingly reduced sperm counts. What is the healthier choice? Essential oils work well, as does just opening the windows. Another way to detoxify the air is to add more plants to your home. \cite{experience}
+**** Carpet Cleaners
+     A common ingredient in carpet cleaners is perchloroethylene, which happens to be a neurotoxin. It is also a possible carcinogen, so it is really something you don't want in your body. The healthier choice is to use a nontoxic brand, such as Ecover, or use undiluted castile soap. \cite{experience} 
+**** Multipurpose Cleaners
+     Many multipurpose cleaners include 2-butoxyethanol, which gives them their sweet smell. It can also cause sore throats when inhaled, and in high levels contributes to narcosis, pulmonary edema, and severe liver and kidney damage. A healthier option is to stick with simple cleaning compounds like Bon Ami powder; it's made from natural ingredients like group feldspar and baking soda without the added bleach or fragrances found in most commercial cleaners. \cite{experience}
+**** Polishing Agents
+     Due to the fact that when ammonia evaporates it doesn't leave streaks, it is a common ingredient in window cleaners. Also commonly, it makes it harder to breath, especially in people with preexisting lung issues. It can also create a poisonous gas when mixed with bleach. The healthier alternative is to shine with Vodka, it leaves a reflective shine on any metal / mirrored surface. \cite{experience}
+**** Oven Cleaners
+     A common ingredient is Sodium Hydroxide, also known as lye. It is extremely corrosive, burning your skin or eyes if it makes contact. The healthier way to clean even the grimiest oven is with baking-soda paste. \cite{experience}
+*** Choose your favorite product and include a recipe to make the product using healthy home ingredients. Include the original product, the recipe, an image and at least 1 potential benefits
+    While maybe not my /absolute/ favorite product, I think an important product to make with healthy ingredients is a multipurpose cleaner, because of the fact that you use it almost everywhere. The recipe to make this is simple:
+    - 1 tsp borax
+    - 1/2 tsp washing soda
+    - 1 tsp liquid castille soap
+    - Essential oils of choice
+    - Spray Bottle
+      
+    The instructions are also simple:
+    1. Place borax, washing soda and soap in a spray bottle
+    2. Add 2 cups of warm water. Cover bottle and shake well, use as needed.
+
+    One potential benefit of using this is that it's harmless if you child accidentally consumes some of it, which means it's safe to use on their toys.
+    
+\bibliography{/home/kadin/bibtex/references.bib}{}
+\bibliographystyle{apacite}
+#  LocalWords:  ahold disruptors
+
+

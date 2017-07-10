@@ -1,0 +1,10 @@
+#+BRAIN_PARENTS: School
+
+#+BRAIN_CHILDREN: PLM%20Exam Sow What? Homework
+
+
+
+* Brainchildren    :brainchildren:
+- [[brain:PLM Exam][PLM Exam]]
+- [[brain:Sow What?][Sow What?]]
+- [[brain:Homework][Homework]]

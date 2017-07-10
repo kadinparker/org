@@ -1,0 +1,30 @@
+#+BRAIN_PARENTS: Homework
+
+#+TITLE: Sahara Horned Viper Assignment
+#+AUTHOR: Kadin, Delaney, Xander, Brandon & Ethan
+
+* What are they?
+
+Sahara Horned Vipers (Scientific name : Cerastes cerastes) are a species of venomous vipers, that live (natively) in the harsh deserts of Northern Africa. They normally have a pair of small horn-like appendages on their head, although not all of them have this.
+
+** What do they look like?
+
+ [[file:~/hornedviper.jpg][file:~/hornedviper.jpg]]  
+
+* What are their poisons?
+
+C. cerastes venom actually isn't very toxic, although you still would /not/ want to be injected with it. Some of the effects of their venom are; swelling, nausea, vomiting, necrosis and hemorrhaging. Our best guess for a lethal dose of this venom, at least for humans, is 40-50 mg
+
+* When do they come out, ie. When are you at risk?
+
+Sahara Horned Vipers are nocturnal animals, foraging mostly at night. During the day, they avoid the scorching sun by hiding in burrows and burying themselves in the sand, exposing only their eyes and nostrils. 
+
+* What to do if you are bit by the viper?
+
+http://animaldiversity.org/accounts/Cerastes_cerastes/#behavior
+
+* What are they?
+** What do they look like?
+* What are their poisons?
+* When do they come out, ie. when are you at risk?
+* What to do if you are bit by the silver ant?

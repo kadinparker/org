@@ -1,0 +1,45 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Government~of Canada%
+}{%
+Government~of Canada%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+government}
+\APACinsertmetastar {%
+government}%
+\begin{APACrefauthors}%
+Government~of Canada, G\BPBI A\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{May}{}.
+\newblock
+\APACrefbtitle {Travel Advice and Advisories for Germany.} {Travel advice and
+  advisories for germany.}
+\newblock
+\begin{APACrefURL} \url{https://travel.gc.ca/destinations/germany}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {ibis Hotel Berlin Mitte, Berlin, Germany}}{%
+\APACcitebtitle {ibis Hotel Berlin Mitte, Berlin, Germany}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+booking}
+\APACinsertmetastar {%
+booking}%
+\APACrefbtitle {ibis Hotel Berlin Mitte, Berlin, Germany.} {ibis hotel berlin
+  mitte, berlin, germany.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.booking.com/hotel/de/ibisberlinmitte.en-gb.html?aid=356936%3Blabel&#hotelTmpl}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

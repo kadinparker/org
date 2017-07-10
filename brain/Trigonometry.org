@@ -1,0 +1,69 @@
+#+BRAIN_PARENTS: Math
+
+#+LATEX_HEADER: \usepackage{gensymb}
+#+OPTIONS: toc:nil num:nil
+
+\setlength{\parindent}{0pt}
+
+* Review
+
+Terms that we used when dealing with Trig:
+
+- Angles in standard position
+- Terminal arm
+- Special triangles
+- Co-terminal angles
+- Period
+- Amplitude
+
+We also look at transformations:
+
+for example: \(y = a \cdot sin(k(x-d)) + c\)
+
+Unit Circle
+
+Radius = 1
+
+[[./download.jpg][Special Triangles]]
+
+Period::One Cycle
+Amplitude::Distance from axis to max
+
+\(\theta = \frac{a}{r} = \frac{r}{r} = 1\)
+
+How many degrees are in 1 radian?
+
+\(57.3\degree\)
+
+We are often expressing angles as real numbers, without units, in terms of \(\pi\)
+
+\(\pi\) radians = \(180\degree\)
+
+** Convert each of the following to radians.
+
+a) \(30\degree\) \((\frac{\pi}{180\degree})\)\\
+= \(\frac{30\pi}{180}\)\\
+= \(\frac{\pi}{6}\)
+
+b) \(40\degree(\frac{\pi}{180\degree}\)\\
+=
+
+** Convert each radian measure to degrees
+
+a) \(\frac{3\pi}{4}(\frac{180}{\pi})\)\\
+= \(135\degree\)
+
+b) 1.5 radians \((\frac{180}{\pi})\)\\
+= \(85.9\degree\)
+
+#  LocalWords:  radians Radian
+
+* Transformations of Trigonometric Functions
+
+Remember our rules for transforming ANY function:
+
+\((x,y) \rightarrow (\frac{x}{k} + d, ay + c)\)
+
+** Need to Know
+
+The parameters in the equations \(f(x) = a \cdot sin(k(x-d)) + c\) and \(f(x) = a \cdot cos(k(x-d)) + c\) give useful information about transformations and characteristics of the function.

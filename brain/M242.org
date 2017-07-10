@@ -1,0 +1,13 @@
+#+BRAIN_PARENTS: Homework
+
+#+TITLE: Chapter 4 Self-Test
+#+OPTIONS: toc:nil num:nil
+
+1. Solve for \(x\) in \(3x^3-3x^2-7x+5=x^3-2x^2-1\)
+
+\begin{align*}
+
+3x^3-3x^2-7x+5&=x^3-2x^2-1\\
+3x^3-x^3-3x^2+2x^2-7x+5+1&=0
+
+\end{align*}

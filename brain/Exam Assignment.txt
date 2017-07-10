@@ -1,0 +1,186 @@
+Kadin Buckton
+
+
+Trip Planner
+════════════
+
+Name of destination
+───────────────────
+
+  Berlin, Germany
+
+
+Destination information: Write a few introductory paragraphs about the destination you are sending the client to. In other words, SELL ME, tell them what types of things to expect
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Berlin is a beautiful city, with bustling nightlife and never a dull
+  moment. With many different; museums, restaurants, parks, concert
+  halls and beer, it's hard to go wrong wherever you go during your
+  trip. There's no real dress code in Berlin, if it's hot wear flip
+  flops and shorts if you want to. If it's cold, bundle up with a heavy
+  jacket.
+
+
+What would the slogan be for this destination?
+──────────────────────────────────────────────
+
+  "Du bist verrukt mein kind, du must nach Berlin"
+
+
+Travel Requirements
+───────────────────
+
+Medical
+╌╌╌╌╌╌╌
+
+  Make sure your vaccinations are up to date
+
+
+Passports
+╌╌╌╌╌╌╌╌╌
+
+  Valid Canadian Passport
+
+
+Visa
+╌╌╌╌
+
+  Not required for visits up to 90 days. \cite{government}
+
+
+Insurance
+╌╌╌╌╌╌╌╌╌
+
+  Travel Health Insurance is recommended but not required
+
+
+Flight Information
+──────────────────
+
+Flight Date
+╌╌╌╌╌╌╌╌╌╌╌
+
+  Fri, Mar 9
+
+
+Return Flight
+╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Sun, Mar 18
+
+
+Length of Flight
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  14 hours and 15 minutes
+
+
+Layovers
+╌╌╌╌╌╌╌╌
+
+  1h 15m in Toronto, 3h 15m in Frankfurt.
+
+
+Airlines
+╌╌╌╌╌╌╌╌
+
+  Air Canada until Frankfurt, Lufthansa from Frankfurt to Berlin.
+
+
+Cost w/ tax
+╌╌╌╌╌╌╌╌╌╌╌
+
+  $1,532
+
+
+Geographical Information
+────────────────────────
+
+Climate
+╌╌╌╌╌╌╌
+
+  Average daily temperature of around 4C
+
+
+Season
+╌╌╌╌╌╌
+
+  Spring
+
+
+Weather
+╌╌╌╌╌╌╌
+
+  Approx. 36 mm of rainfall average in the month of march.
+
+
+Geographical qualities
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Mainly flat, low-lying marshy woodlands.
+
+
+Where will the client stay?
+───────────────────────────
+
+  ibis Hotel Berlin Mitte \cite{booking}
+
+
+Cost
+╌╌╌╌
+
+  $926 for all 9 nights.
+
+
+Where would be a place to go eat a cultural meal?
+─────────────────────────────────────────────────
+
+  A good place to go for a cultural meal would be Marjellchen, a highly
+  rated restaurant located at Mommsenstraße 9, 10629 Berlin, Germany.
+
+
+Menu Items
+╌╌╌╌╌╌╌╌╌╌
+
+  [http://www.marjellchen-berlin.de/]
+
+
+Cost for both currencies
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  What you would expect from a restaurant.
+
+
+Local event happening at time of client's trip
+──────────────────────────────────────────────
+
+  International Travel Trade Show - 7-11 March 2018 MaerzMusik - 16-25
+  March 2018 [https://www.berlin.de/en/events/march/]
+
+
+What does event suggest about culture
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Seeing as the Travel Trade show is the largest in the world, I would
+  say that they have a fairly diverse culture.
+
+
+Habits of the people
+────────────────────
+
+  • Recycling everything
+  • No small talk
+  • Carrying Cash
+  • Getting angry at late public transport
+    [http://blackgirlinberlin.com/home/6-habits-i-picked-up-living-in-berlin/]
+
+
+Packing List
+────────────
+
+
+Travel Tips
+───────────
+
+  \bibliography{/home/kadin/bibtex/references.bib}{}
+  \bibliographystyle{apacite}

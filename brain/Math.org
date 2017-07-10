@@ -1,0 +1,14 @@
+#+BRAIN_PARENTS: School
+
+#+BRAIN_CHILDREN: Modelling%20with%20Trigonometric%20Functions Trigonometry Solving Rational Equations Graphs of Rational Functions M240 Rates of Change in Polynomial Functions Solving Linear Inequalities Solving Polynomial Equations Homework
+
+* Brainchildren    :brainchildren:
+- [[brain:Modelling with Trigonometric Functions][Modelling with Trigonometric Functions]]
+- [[brain:Trigonometry][Trigonometry]]
+- [[brain:Solving Rational Equations][Solving Rational Equations]]
+- [[brain:Graphs of Rational Functions][Graphs of Rational Functions]]
+- [[brain:M240][M240]]
+- [[brain:Rates of Change in Polynomial Functions][Rates of Change in Polynomial Functions]]
+- [[brain:Solving Linear Inequalities][Solving Linear Inequalities]]
+- [[brain:Solving Polynomial Equations][Solving Polynomial Equations]]
+- [[brain:Homework][Homework]]
