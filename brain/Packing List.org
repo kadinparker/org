@@ -1,0 +1,27 @@
+#+BRAIN_PARENTS: Camping
+
+* TODO Pack for Camp
+- [X] Paddles
+- [ ] 7 Days of Clothes
+- [ ] Black Widow Speaker
+- [X] Swimsuit + Towel
+- [ ] Fancy Grapple Stick (If Possible)
+- [X] Pillow
+- [X] Blanket + Sheets
+- [ ] Air Force Hat
+- [X] Sandals
+- [X] Goggles
+- [ ] Books
+- [ ] Toiletries
+- [ ] Water Bottle
+- [ ] Camel Pack
+- [X] First Aid Kit
+- [ ] Small Survival Kit
+- [ ] Snacks
+- [ ] Shot Glasses
+- [ ] Booze
+- [ ] Pack of Cards
+
+
+
+

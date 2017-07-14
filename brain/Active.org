@@ -1,0 +1,11 @@
+#+BRAIN_PARENTS: Agents
+
+| Name             | Location                      | Status                                           |
+|------------------+-------------------------------+--------------------------------------------------|
+| Ramblin' Bob     | Top Right Window, Above AC    | MIA -- Presumed Dead                             |
+| Ramblin' Bob Jr. | Behind Downstairs Toiler      | MIA -- Presumed Dead                             |
+| Big Jim          | Top Left Window               | Active                                           |
+| Hangin' Harry    | Between Garage and House Roof | Active                                           |
+| Christina        | House Roof above Window       | Active -- Caution: Extremely Feisty Once a Month |
+| Tiny Tina        | Top Left Near Big Jim         | Active -- Very Tiny                              |
+| Tiny Terry       | Bottom Left Inside            | Active -- Even Tinier                            |

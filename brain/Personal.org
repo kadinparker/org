@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: Room Spiritual
+#+BRAIN_CHILDREN: Room Spiritual Camping
 
 #+BRAIN_PARENTS: Brain
 
