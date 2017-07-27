@@ -2,7 +2,7 @@
 
 * TODO Pack for Camp
 - [X] Paddles
-- [ ] 7 Days of Clothes
+- [X] 7 Days of Clothes
 - [ ] Black Widow Speaker
 - [X] Swimsuit + Towel
 - [ ] Fancy Grapple Stick (If Possible)
@@ -11,17 +11,24 @@
 - [ ] Air Force Hat
 - [X] Sandals
 - [X] Goggles
-- [ ] Books
-- [ ] Toiletries
-- [ ] Water Bottle
-- [ ] Camel Pack
+- [X] Books
+- [X] Toiletries
+- [X] Water Bottle
+- [X] Camel Pack
 - [X] First Aid Kit
 - [ ] Small Survival Kit
 - [ ] Snacks
-- [ ] Shot Glasses
+- [X] Shot Glasses
 - [ ] Booze
-- [ ] Pack of Cards
+- [X] Pack of Cards
 
+* Kadin's List
+- [ ] Camel Pack
+- [ ] 6 Days Clothes
+- [ ] Hat
+- [ ] Phone
+- [ ] Books
+- [ ] 
 
 
 
