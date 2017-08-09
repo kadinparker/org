@@ -1,6 +1,6 @@
-#+BRAIN_PARENTS: Brain
+#+BRAIN_PARENTS: Brain Personal
 
-#+BRAIN_CHILDREN: Halo
+#+BRAIN_CHILDREN: Halo MyBooks
 
 
 

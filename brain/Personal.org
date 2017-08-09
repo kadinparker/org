@@ -1,4 +1,4 @@
-#+BRAIN_CHILDREN: Room Spiritual Camping Dental Birthdays
+#+BRAIN_CHILDREN: Room Spiritual Camping Dental Birthdays Books
 
 #+BRAIN_PARENTS: Brain
 
