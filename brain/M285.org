@@ -1,5 +1,4 @@
 #+BRAIN_PARENTS: Homework
-
 #+TITLE: P.285
 #+AUTHOR: Kadin Buckton
 
