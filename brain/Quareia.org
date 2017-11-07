@@ -1,4 +1,0 @@
-#+BRAIN_CHILDREN: Tarot Meditation
-
-#+BRAIN_PARENTS: Spiritual
-

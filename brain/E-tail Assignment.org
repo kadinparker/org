@@ -1,0 +1,16 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: E-tail Assignment
+#+AUTHOR: Kadin Buckton
+
+* Report
+  This report is about the process, advantages, and disadvantages of buying a book from a retailer versus a website. The name of the book that I am going to be "buying" is "Matthew Flinders' Cat".
+  
+** Retail
+   - Drive to the store
+   - Look for book
+   - Find book
+   - Purchase book
+   
+*** Advantages 
+    - Get to preview 

@@ -1,0 +1,81 @@
+#+BRAIN_PARENTS: Poetry
+#+OPTIONS: toc:nil num:nil ':true
+
+* Sigmund Freud
+  Father of Psychoanalysis
+
+** The Psyche
+   Human mind divided into 3 areas:
+   
+*** Id
+    - Unconscious
+    - Irrational
+    - Based on raw, primal instinct
+    - Libido or "drive" for food, water and sex
+    - Does not think -- it acts
+    - Innate -- no experience -- does not learn
+    - *the pleasure principle* -- needs to be regulated
+    - Evolution
+
+*** Superego
+    - Subconscious or preconscious
+    - Moral / Judicial branch of personality
+    - Ethics, values, and rules
+    - Shaped by parents, society, culture, religion
+    - Idealism -- not reality
+    - Socialization and Cultural Tradition
+
+      Ego Ideal represents all that is morally good -- "Smile"
+
+      Conscience represents all that is morally bad -- "Don't frown"
+
+*** Ego
+    - Conscious -- it is your personality
+    - Regulates /id/ and /superego/
+    - Seeks balance between the /id/ and the real world
+    - Perception, memory, thinking
+    - Common sense acquired through experience
+    - *The reality principle*
+    - Interaction with Reality / Learning
+   
+*** Literary Applications
+    Authors create characters who are of "two minds"
+
+    - The character _*knows*_ what is right but is compelled to do wrong
+    - In cartoons, we see the angel and devil on opposite shoulders
+    - Authors also create characters who represent _*parts*_ of the psyche
+
+    Lord of the Flies
+
+    - Jack
+      - Irrational, primal, libido, action / not words
+    - Piggy
+      - Rational, moral, ethical, historical, rule-driven
+    - Ralph
+      - Balanced, democratic, realistic, experienced
+
+**** Examples
+     - Macbeth's decision to murder King Duncan in /Macbeth/
+     - Peter Griffin's decision to play golf or celebrate his anniversary
+     - Raskolnikov's split personality or dual nature in /Crime and Punishment/
+
+** Psycho-sexual Stages
+   
+   [[https://www.simplypsychology.org/psychosexual.html][Freud Stages]]
+
+*** Oral Phase
+    0-1 year
+
+*** Anal Phase
+    1-3 years
+
+*** Phallic Phase
+    3-5/6 years
+
+*** Latency Genital Phases
+    5/6-Puberty 
+    
+*** Genital Stage 
+    Puberty-Adult
+   
+#  LocalWords:  preconscious Raskolnikov

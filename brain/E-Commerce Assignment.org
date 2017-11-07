@@ -1,0 +1,17 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: E-Commerce Assignment
+#+AUTHOR: Kadin Buckton
+#+DATE: \today
+#+OPTIONS: toc:nil num:nil ':true
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+
+  There are many benefits of E-Commerce, not just for consumers, but also for businesses. This report is going to go over the benefits and disadvantages of E-commerce for both businesses, and consumers.
+   
+  Some of the benefits of E-Commerce for business include; hours open, descriptions of products, search-ability, and cost. With E-Commerce, your store is never closed. Consumers can look at and order your product 24/7, regardless of where they live. When you have your product online, you can have a comprehensive description of every product, as long as you decide to make it. You are also able to search up products, using many different filters such as price and type. The price of products are also lower online, due to less cost for power, building rent, and other overhead costs you usually have with brick and mortar stores.
+   
+  Benefits of E-Commerce for consumers include mainly the same benefits for businesses. The reason for this being that most business benefits /are/ business benefits because it helps or entices consumers to buy their products. When you shop online, there is a much, much wider range of products to choose from, at competitive prices. It is also much more convenient to order online and have the product shipped right to your house, without having to travel to a store and back.
+  
+  Disadvantages of E-Commerce for consumers include; quality, bad websites, hackers, and failures. When buying online, the quality of the product can not be assured, resulting in products shipping broken or damaged. The ease of set-up for E-Commerce means that anyone can start a business online, and many bad websites exist that just eat customers' money without delivering the product. Another issue is when you give your credit card information to a website, you're trusting the website owner to keep your data safe. There have been many cases where an unsecured website has caused credit card numbers to be leaked, resulting in money being stolen. Hardware failures can also cause downtime of your website, chasing users away from purchasing your products.
+   

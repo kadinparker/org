@@ -1,0 +1,67 @@
+#+BRAIN_PARENTS: Coop
+
+#+TITLE: Activity 2: Employability
+#+AUTHOR: Kadin Buckton
+#+DATE: <2017-09-19 Tue>
+#+OPTIONS: num:nil
+#+latex_header: \usepackage{cite}
+
+* Report
+
+** Systems Administrator
+   
+*** Description
+
+    The system administrator is someone that is responsible for "effective provisioning, installation/configuration, operation, and maintenance of systems hardware and software and related infrastructure." They also participate in "technical research and development to enable continuing innovation within the infrastructure."
+
+*** Duties
+    
+    Duties include:
+    - Installing and configuring applications
+    - Contributing to and maintaining system standards
+    - Performing daily system monitoring, verifying the integrity and availability of all hardware, resources, systems and key processes, reviewing logs, and verifying completion of scheduled tasks.
+    - Perform regular backups
+    - Create, change and delete user accounts
+    - Maintain operational, configuration, or other procedures
+    - Perform periodic performance reporting
+    - Maintain data center environmental and monitoring equipment
+
+*** Education Requirements
+
+    Typically requires:
+    - Bachelor (4-year) degree, with a technical major, such as engineering or computer science
+    - Systems Administration/System Engineer certification in Unix and Microsoft
+    - Four to six years system administration experience
+
+** Electrical Engineer
+   
+*** Description
+    
+    An electrical engineer is someone that designs electrical systems by developing and testing components.
+    
+*** Duties
+    
+    Duties include:
+    - Evaluating electrical systems, products, components, and applications by designing and conducting research programs; applying knowledge of electricity and materials
+    - Confirming system's and components capabilities by designing test methods and testing properties
+    - Assuring product quality by designing tests and testing finished products and systems
+    - Keeps equipment operational by following manufacturer's instructions and established procedures; requesting repair service.
+    - Maintains product data base by writing computer programs; entering data.
+    - Maintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.
+
+*** Education Requirements
+    
+    Typically requires:
+    - Bachelor degree or higher 
+   
+** Which do you prefer?
+   
+   I would much prefer to be a systems administrator because I love learning new things about computers, and system administration would give me a wonderful platform to do exactly that.
+   
+   \nocite{monster}
+   \nocite{learnhowto}
+   \nocite{supportingadvancement}
+   \bibliography{/home/kadin/bibtex/references.bib}{}
+   \bibliographystyle{plain}
+
+#  LocalWords:  Employability

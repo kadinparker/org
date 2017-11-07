@@ -1,8 +1,0 @@
-#+BRAIN_PARENTS: Brain Personal
-
-#+BRAIN_CHILDREN: Halo MyBooks
-
-
-
-* Brainchildren    :brainchildren:
-- [[brain:Halo][Halo]]

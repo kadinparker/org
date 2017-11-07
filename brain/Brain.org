@@ -1,8 +1,2 @@
-#+BRAIN_CHILDREN: Personal Books School Spiders
+#+BRAIN_CHILDREN: School LBRY
 
-
-
-* Brainchildren    :brainchildren:
-- [[brain:Personal][Personal]]
-- [[brain:Books][Books]]
-- [[brain:School][School]]

@@ -1,0 +1,27 @@
+#+BRAIN_PARENTS: English Poetry
+
+#+TITLE: The Six Verities
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil
+
+* The Six Verities
+
+  Group 2 cannot be affected by group 1.
+
+** Group 1
+   
+*** Death
+
+*** Nature
+
+*** Time
+
+** Group 2
+
+*** Beauty
+
+*** Truth
+
+*** Love
+
+

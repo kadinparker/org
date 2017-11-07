@@ -1,0 +1,20 @@
+#+BRAIN_PARENTS: Entrepreneurship
+#+OPTIONS: toc:nil num:nil
+
+* DONE Introductory Assignment
+  CLOSED: [2017-09-08 Fri 11:36] DEADLINE: <2015-09-11 Fri>
+
+** Introductory Writing Assignment
+   
+    My interpretation of the 'perfect' career is to either own or work at a business involving computers. It also involves enough pay to live a comfortable life. It should have opportunities to advance, either through a company or to a different company. It should also be challenging enough that I can keep learning new things. If I want to work or own a computer business, I need to know how they work, so that's what I'm going to University or College for.
+
+    For Post-Secondary, I'm currently looking at Computer Science, Networking, Computer Security, Systems Administration, IT and others. I'm planning on either going to Sault College or Algoma University, with a secondary interest in universities in the United States.
+
+    One of my current goals is to successfully get placed and complete my Coop placement this semester, getting experience for my Resume. Another short term goal is contributing more code to open source projects, giving me more experience and more things to put on my resume. I also plan to learn more programming languages, so that I have more opportunities to find a job.
+
+    To help my future career endeavors, I can continue studying and gathering experience, and start networking with different companies to open doors to jobs in the future. I can also start investing in a savings account, to help pay for a college / university diploma.
+
+    I think the skills that are my greatest strengths are my perseverance, drive and my integrity. 
+    
+
+    

@@ -1,0 +1,83 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: How Do We Think?
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil ':true
+
+* The Problem Solving Process
+  There are 3 stages in the problem solving process
+  # Problem solving is the same as decision making
+  - Problem Finding
+  - Idea Finding
+  - Solution Finding
+  It requires both creative-thinking skills and critical-thinking skills
+  
+* Do you remember?
+
+** Steps to Problem Solving
+   - Find the /actual/ problem
+   - Think about the problem
+   - Generate lots of possible solutions
+   - Establish criteria for evaluating ideas
+   - Use your criteria for evaluating ideas
+   - Rank your ideas and select the best one
+   - Try out your idea
+   - Is the problem solved? If not, choose another idea and try again
+   Use this at the /Problem Finding/ stage
+   
+* Idea Finding
+  Edward De Bono is an expert on creative thinking
+  
+  According to him there are 6 modes of thinking. To explain his idea, De Bono uses the idea of 6 metaphorical thinking hats that can be put on and taken off at will by the idea creator or problem solver.
+  
+  The hats are color coded to help people remember which type of thinking is associated with each one
+
+* The Six Thinking Hats
+
+** Objective
+   White Hat
+   - Concerned with gathering facts, figures, and objective information
+   - The white hat thinker should think like a computer
+   - "Give me the facts and figures please"
+   - "How many? How often? How much?"
+   
+** Intuitive
+   Red Hat
+   - Recognizes that emotions and intuition influence thinking
+   - Uses hunches and felling to generate info
+   - "I have a hunch that..."
+   - "This is how I feel about..."
+
+** Creative
+   Green Hat
+   - Includes thinking using creativity, alternatives and proposals
+   - "How else can that be done"
+
+** Negative
+   Black Hat
+   - Represent the use of judgment and caution
+   - Presents a logical case against judgment 
+
+** Positive
+   Yellow Hat
+   - Also thinks logically, but in very constructive ways
+   - Looks for positive outcomes and reasons why the idea will work
+   - "I want to explore this further..."
+
+** Process
+   Blue Hat
+   - Used to pull the other hats together
+   - The one who makes things happen
+   - "Let's get started..."
+   
+* How to find more answers
+  - Change your solutions
+  - Talk to and listen to people
+  - Make lists and don't be afraid to change them
+  - Daydream
+  - Try to look at things in different perspectives
+  - Read something you have never read before
+  - Try something you have never tried before
+  - Invite ideas from others
+  - Write down all your new ideas
+

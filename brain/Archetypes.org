@@ -1,0 +1,162 @@
+#+BRAIN_PARENTS: Poetry
+#+OPTIONS: toc:nil num:nil ':true
+
+* Archetypes
+  <2017-09-11 Mon>
+
+** Archetype
+   - A pattern in literature
+     - Types of characters
+     - Types of stories
+     - Universal Symbols
+     - Associations and expectations
+
+** Northrop Frye
+   - Canadian essayist and literary critic
+   - Famous for his analysis of Shakespeare
+   - Wrote /The Anatomy of Criticism/
+
+*** Frye's Four Mythoi
+    Mythos = plot or story
+
+    | Tragedy | Satire / Irony |
+    |---------+----------------|
+    | Romance | Comedy         |
+    
+    Tragedy is opposite of Comedy
+    
+    Romance is opposite of Satire
+    
+**** Comedy
+     - Not necessarily funny
+     - Multiple overlapping plots
+     - Clown and Killjoy figures
+     - Death avoided
+     - "Reintegration"
+     
+**** Tragedy
+     - Not necessarily sad -- Offers optimism
+     - Single noble imperfect character
+     - Aristotelian or Shakespearean
+     - Five stages
+     - "Disintegration"
+
+**** Romance 
+     - Very simply -- a *worthy* quest
+     - Coming of age story (bildungsroman)
+     - Main characters change for the better
+     - Identity, true love, saving the world
+     - e.g. Chaucer's "Knight's Tale"
+     
+**** Satire / Irony
+     - An unworthy quest or "fool's quest"
+     - A "harlequin" Romance
+     - Main characters offer/learn nothing
+     - Money, fame, sex, self-love (narcissism)
+     - E.g. Chaucer's "Miller's Tale"
+     
+*** Cycles
+
+**** Comedy
+     - Morning
+       - Dawn
+     - Spring
+       - Renewal
+     - Birth
+       - Rebirth
+       - Renewal
+     - Air
+       - Spirituality
+       - Idealism
+     - Blood
+       - Sanguine
+       - Idealism
+
+**** Romance
+     - Afternoon
+       - Sun
+     - Summer
+       - Ripeness
+     - Maturity
+       - Union
+       - Marriage
+     - Fire
+       - Passion
+       - Power
+     - Yellow Bile
+       - Choleric
+       - Hot-headed
+     
+**** Tragedy
+     - Evening
+       - Twilight
+     - Autumn
+       - Wilting
+     - Old Age
+       - Dying
+       - Senility
+     - Earth
+       - Stability
+       - Realism
+     - Black Bile
+       - Melancholic
+       - Realism
+
+**** Satire 
+     - Winter
+       - Hibernation
+     - Death
+       - Dissolution
+       - Divorce
+     - Water
+       - Mystery
+       - Evil
+     - Phlegm
+       - Unemotional
+       - Dull
+       
+** Color Archetypes
+    
+*** Red
+    - Passion (love, anger, lust)
+    - Power
+
+*** Blue
+    - Peace, calm
+    - Spirituality
+
+*** White
+    - Purity, virginity
+    - Innocence
+    - Male
+
+*** Black
+    - Mystery, unknown
+    - Evil
+    - Female
+    
+** Number Archetypes
+
+*** Three (3)
+    - Magic, mysticism
+    - The Trinity
+    - Power
+    - Time
+    - Male
+
+*** Four (4)
+    - Equality
+    - Stability
+    - Cycles
+    - Nature
+    - Female
+
+*** Seven (7)
+    - Perfection
+    - Unity
+    - Luck
+    - Universe
+    - Union of male/female
+
+
+  #  LocalWords:  Mythoi Mytos bildungsroman

@@ -1,7 +1,0 @@
-#+BRAIN_PARENTS: Alex
-
-#+TITLE: Music ISU
-#+AUTHOR: Alex Morin
-#+OPTIONS: num:nil toc:nil
-#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
-

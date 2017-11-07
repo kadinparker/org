@@ -1,0 +1,77 @@
+#+BRAIN_PARENTS: Poetry
+#+OPTIONS: toc:nil num:nil
+
+* DONE Orwell Questions
+  CLOSED: [2017-09-08 Fri 09:50] DEADLINE: <2017-09-11 Mon>
+
+  
+* In the opening two paragraphs, what general attitude does Orwell identify as an impediment to the improvement of language usage?
+
+  The fact that we think of language as a "natural growth" instead of something we shape ourselves.
+
+* Locate and underline Orwell's complete thesis. the thesis is not the last sentence of the first paragraph -- Why would Orwell put it somewhere else?
+  
+_Modern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble._ I believe he put this in the second paragraph in order to better explain what he means by spread by imitation.
+  
+* Identify each of the four main "language tricks" Orwell catalogs. In a sentence for each, summarize the four points he is making.
+  
+** Dying Metaphors
+   
+   Metaphors that are so old that they no longer resonate with anyone, and are used simply as a convenient phrase to pad a sentence.
+
+** Verbal False Limbs
+   
+   Verbal False Limbs are more complicated ways of saying simple things, another way to use a phrase so that you don't have to come up with your own words.
+
+** Pretentious Diction
+   
+   Pretentious Diction is words that are used to "dress up" words so that they sound impartial.
+
+** Meaningless Words
+   
+   Meaningless Words are words that are used to describe stuff without actually having to have an opinion.
+
+* Orwell shows that thought and language are inexorable intermingled. He states that "if thought corrupts language, language can also corrupt thought." How does he demonstrate this interaction?
+  
+  "A man may drink because he feels himself to be a failure, and then fail all the more completely because he drinks."
+
+* Explain why Orwell might have included "politics" in the title of his essay. Consider *all* of its connotations.
+  
+  I think that Orwell included "politics" in the title of his essay because his essay is mainly about English as used in political speeches and opinions.
+
+* Write out the six rules Orwell lists at the end of the essay. What is ironic about this essay? Is it a good essay or not? Explain. (3-5 sentences)
+
+  1) Never use a metaphor, simile or other figure of speech which you are used to seeing in print.
+  2) Never use a long word where a short one will do.
+  3) If it is possible to cut a word out, always cut it out.
+  4) Never use the passive where you can use the active.
+  5) Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
+  6) Break any of these rules sooner than say anything barbarous.
+  
+* Orwell wrote this essay in 1946 and these were his observations and predictions. Was he accurate in his appraisal of the English language? Was his message one of optimism or pessimism? Explain
+
+  I think his message was one of pessimism.
+
+* Find at least 10 things in our society that are contributing to a downfall in our language. Can you find anything that is actually improving it? (List them in a chart)
+
+  | Improving     | Ruining        |
+  |---------------+----------------|
+  | Internet      | Poor education |
+  | Diversity     |                |
+  | Communication |                |
+
+* What do you think language will be like in 50 years?
+
+  I think it's going to be similar to what it is now, with new words and different meanings for existing words.
+
+* After reading this essay, what do you think is more important -- thought or language? Consider the dangers of limiting one or the other. Defend your answer!
+
+  I believe that thought is more important, because you still have thought before you know a language.
+
+* Most of us can get through the passage without too much trouble, so why */is/* spelling so important to language? State two reasons why it is (or isn't)
+
+  Most of us can get through the passage, because of the fact that the first and last letters are in the same place, /and/ the word contains the same letters as normally, in any order. The reason that we can still read the passage is because our brain reads the words, and not the individual letters, but it is the individual letters that make up the word. 
+
+* What would happen if we spelled everything the way it sounds (phonetically)?
+
+  It wouldn't be universal

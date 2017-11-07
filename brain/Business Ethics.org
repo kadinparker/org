@@ -1,0 +1,67 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: What is Ethical Behavior?
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil
+
+* What is Ethical Behavior?
+
+** Ethics
+   - Code of moral principles.
+   - Set standards in good and bad and right and wrong.
+
+** Ethical Behavior
+   - What is accepted as good and right in context of the governing moral 
+
+** Law, Values, and Ethical Behavior
+   - Ethical behavior should also be legal in a fair and just society
+   - Legal behavior is not necessarily ethical behavior
+   - Personal values help determine individual ethical behavior
+   
+** How companies can respect core or universal values
+   
+*** Respect for human dignity
+    - Create culture that values employees, customers, and suppliers
+    - Keep a safe workplace
+    - Produce safe products and services
+      
+*** Respect for basic rights
+    - Protect rights of employees, customers, and communities
+    - Avoid anything that threatens safety, health, education and living standards
+    
+*** Be good citizens
+    - Support social institutions, including economic and educational systems
+    - Work with local government and institutions to protect environment
+
+** How do ethical dilemmas complicate the workplace?
+   - An ethical dilemma occurs when choices offer potential for personal and/or organizational benefit but may be considered unethical.
+   - Ethical dilemmas include
+     - Discrimination
+     - Sexual harassment
+     - Conflicts of interest
+     - Customer confidence
+     - Organizational resources
+   - Unethical behavior can be rationalized by convincing yourself that
+     - Behavior is not really illegal
+     - Behavior is really in everyone's best interests
+     - Nobody will ever find out
+     - The organization will "protect" you
+   - Factors influencing ethical behavior include
+     - The person
+       - Family influences, religious values, personal standards, and personal needs
+     - The organization
+       - Supervisory behavior, policy statements and written rules, and peer group norms and behavior
+     - The environment
+       - Government laws and regulations, societal norms and values, and competition climate in an industry
+         
+** How can high ethical standards be maintained?
+
+*** Ethics training
+    - Structured programs that help participants to understand ethical aspects or decision making
+    - Helps people incorporate high ethical standards into daily life
+    - Helps people deal with ethical issues under pressure
+
+*** Whistle-blower 
+    - Expose misdeeds of others to
+      - Preserve ethical standards
+      - Protect against wasteful, harmful, or illegal acts

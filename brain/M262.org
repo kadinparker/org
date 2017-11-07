@@ -1,8 +1,0 @@
-#+BRAIN_PARENTS: Homework
-
-#+BRAIN_PIN:
-#+TITLE: P.262
-
-1) 
-2) 
-3) 

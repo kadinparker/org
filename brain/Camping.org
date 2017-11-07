@@ -1,4 +1,0 @@
-#+BRAIN_CHILDREN: Packing%20List
-
-#+BRAIN_PARENTS: Personal
-

@@ -1,8 +1,0 @@
-#+BRAIN_CHILDREN: Room Spiritual Camping Dental Birthdays Books
-
-#+BRAIN_PARENTS: Brain
-
-* Brainchildren :brainchildren:
-
-- [[brain:Room][Room]]
-

@@ -1,7 +1,0 @@
-#+BRAIN_PARENTS: Homework
-
-#+TITLE:P.241
-
-* 10
-** a
-   

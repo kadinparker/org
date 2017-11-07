@@ -1,0 +1,32 @@
+#+BRAIN_PARENTS: English Poetry
+
+#+TITLE: Dante's Inferno
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil ':true
+
+* Dante's Inferno
+  - Inferno :: The Italian word for Hell
+
+  The Inferno tells the story of Dante through Hell, guided by the ancient Roman poet Virgil. In this poem, Hell is depicted as nine circles of torment location within the Earth.
+
+** Vestibule of Hell
+   The gates bear the inscription "Abandon all hope, ye who enter here". *The Uncommitted* are the souls of people who in life took no sides; the opportunists who were for neither good nor evil. Seen as a representation of the "spiritual stagnation" for the way they lived.
+
+   After passing through the Vestibule, Dante and Virgil reach the ferry that will take them across *the river Acheron and to Hell.* The ferry is piloted by Charon, who does not want to let Dante enter because he is living.
+
+** The Circles
+   Are concentric and represent a gradual increase in wickedness and culminate in the center of the earth where Satan is held.
+
+*** Limbo
+    First circle, contains the unbaptized and those that did not accept Christ.
+
+*** Lust
+    Second circle. 
+
+*** Treachery
+    The ninth circle; these are the betrayers bound by unyielding ice.
+
+*** Center
+    _The very center of Hell is the Devil, referred to by Virgil as Dis._
+
+    Lucifer is a giant, terrifying beast trapped waist deep in the ice, suffering. He has three faces: red (middle), pale yellow (the right) and black (the left). Trinity?

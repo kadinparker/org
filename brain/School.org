@@ -1,11 +1,4 @@
-#+BRAIN_CHILDREN: Alex PLM Foods Math
+#+BRAIN_CHILDREN: Entrepreneurship English Alex's%20Work Coop
 
 #+BRAIN_PARENTS: Brain
 
-
-
-* Brainchildren    :brainchildren:
-- [[brain:Alex][Alex]]
-- [[brain:PLM][PLM]]
-- [[brain:Foods][Foods]]
-- [[brain:Math][Math]]

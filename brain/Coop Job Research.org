@@ -1,0 +1,11 @@
+#+BRAIN_PARENTS: Alex's%20Work
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Alex Morin
+
+* Description
+  Electrical engineers are people that design, test, and oversee the production of electronics, like motors, gps, radars etc.  They also design the electrical schematics for cars and aircraft.
+  
+* Duties
+  1) Design electronics based on requirements from the customer, and research / test manufacturing of said electronics.
+  2) 
+  3) 

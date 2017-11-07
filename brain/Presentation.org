@@ -1,0 +1,19 @@
+#+BRAIN_PARENTS: Entrepreneurship
+#+TITLE: Bill Gates
+#+BIBLIOGRAPHY: /home/kadin/bibtex/references plain
+#+AUTHOR: Kadin Buckton,
+#+AUTHOR: Ethan Burns
+#+BEAMER_THEME: metropolis
+
+* Picture
+  #+ATTR_LATEX: :width 0.5\textwidth
+  [[/home/kadin/bill.jpg]]
+
+* Birth
+  Bill Gates was born on October 28, 1955 in Seattle, Washington.
+  
+* Siblings
+  https://www.celebfamily.com/technology/bill-gates.html
+  Gates has two sisters, an older one named Kristi and a younger one named Elizabeth. Kristi is a CPA (Certified Public Accountant) who specializes in personal finances and tax planning. Elizabeth is a well known philanthropist, who works with organizations like schools and support groups.
+
+  \cite{government}

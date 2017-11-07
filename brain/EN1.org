@@ -1,0 +1,19 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: Entrepreneurship Note
+#+DATE: <2017-10-05 Thu>
+
+- GDP :: Gross Domestic Product
+- Interest :: The payment the bank makes to you for use of your money
+- Taxes :: A fee the government collects to provide public goods and services
+
+Closed economy
+
+* Test Questions
+
+- E-tail / Retail thing
+- B2B B2C C2C
+- Why businesses fail
+- Business Cycle
+- Entrepreneurs / Enterprising people
+- Multiplier effect

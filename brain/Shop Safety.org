@@ -1,0 +1,11 @@
+#+BRAIN_PARENTS: Alex's%20Work
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Alex Morin
+
+1) What is the most important job in any shop?
+   The most important job in any shop is safety.
+2) What is the first step towards safe shop repair area?
+   The first step towards safe shop repair area is a clean shop repair area.
+3) When should eye protection be worn in the shop area?
+   Eye protection should be worn all the time in the shop area.
+4) 

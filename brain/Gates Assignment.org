@@ -1,0 +1,17 @@
+#+BRAIN_PARENTS: Entrepreneurship
+
+#+TITLE: Bill Gates Assignment
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil ':true
+
+* What personal attributes does Bill Gates have that make him a successful entrepreneur?
+  He has a very competitive attitude, perseverance, passion, the drive to succeed and the knowledge of business required. His competitive attitude keeps his product improving, which his perseverance lets him continue to improve while his company was at risk of losing it's business to competitors. This was shown in the documentary with Apple gaining IBM as their main customer, stealing it from Microsoft.
+
+* What do you think Bill Gates would be doing now if he was not an entrepreneur? Explain.
+  I think that he would be a computer programmer, because of his love for computers, and the fact that even before he was an entrepreneur he spent most of his free time programming at the computer in MIT. He could have also gone on to pursue a career in law, which he had started a course for. I believe that with his knowledge of business and the family support he had, both emotionally and financially, he would have been successful in whatever career he went into.
+
+* How has Bill Gates & Microsoft impacted your life? Society?
+  Bill Gates has impacted my life by pushing personal computing into the mainstream, allowing me to find my passion in computers and pursue a career in it. Society has been strongly impacted, with Microsoft Windows having the largest market share for years and years now, with almost everyone having the knowledge to use it. It has also enabled a lot of technology to take off, such as typing documents and saving them on a computer, instead of having to use a typewriter.
+ 
+* Do you have any of the attributes Bill Gates has? Explain.
+  I believe that I have the passion for computers that Gates has, and the perseverance and drive to succeed in a career with them. I also have a competitive attitude, and always want to know more, and do more than my competitors. I also have some knowledge of business, though not nearly as much, and am working to grow that knowledge.

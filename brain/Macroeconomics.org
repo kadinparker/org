@@ -1,0 +1,38 @@
+#+BRAIN_PARENTS: Entrepreneurship
+#+TITLE: Macroeconomics
+#+AUTHOR: Kadin Buckton
+#+OPTIONS: toc:nil num:nil ':true
+* Equilibrium
+  Equilibrium occurs at a price of $3 and a quantity of 30 units
+  
+* Shortages and Surpluses
+  - A shortage occurs when quantity demanded exceeds quantity supplied
+    - A shortage implies the market price is too low
+  - A surplus occurs when quantity supplied exceeds quantity demanded
+    - A surplus implies the market price is too high
+    
+* Shift in the Demand Curve
+  - A change in any variable /other than price/ that influences quantity demanded produces a /shift in the demand curve/ or a change in demand
+  - Factors that shift the demand curve include
+    - Change in consumer incomes
+    - Population change
+    - Consumer preferences
+    - Prices of related goods
+      + Substitutes :: Goods consumed in place of one another
+      + Complements :: Goods consumed jointly
+      
+* Shift in the Supply Curve
+  - A change in any variable other than price that influences quantity supplied produces /a shift in the supply curve/ or an change in supply.
+  - Factors that shift the supply curve include
+    - Change in input costs
+    - Increase in technology
+    - Change in size of industry
+    
+* Price Ceilings and Floors
+  - A /price ceiling/ is a legal maximum that can be charged for a good
+    - Results in a shortage of a product
+    - Common examples include apartment rentals and credit card interest rates
+  - A /price floor/ is a legal minimum that can be charged for a good
+    - Results in a surplus of a product
+    - Common examples include soybeans, milk, minimum wage
+
